@@ -1,0 +1,9 @@
+kafka-python==3.0.13
+pyspark==3.5.3
+redis==8.1.0
+psycopg2-binary==2.9.13
+streamlit==1.67.0
+pandas==3.1.1
+plotly==7.1.0
+streamlit-autorefresh==1.0.1
+python-dotenv==1.2.4
